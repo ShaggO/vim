@@ -1,0 +1,9 @@
+[submodule "bundle/sumi"]
+	path = bundle/sumi
+	url = git://github.com/sartak/sumi.git
+[submodule "bundle/sunburst"]
+	path = bundle/sunburst
+	url = git://github.com/sickill/vim-sunburst.git
+[submodule "bundle/vim-pathogen"]
+	path = bundle/vim-pathogen
+	url = git://github.com/tpope/vim-pathogen.git
